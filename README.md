@@ -11,10 +11,10 @@
 <b>Para usar o projeto, você precisa ter o MySQL, Apache e PHP instalado em usa maquina!</b>
 <br><br>
 <p>CRUD são as quatro operações básicas utilizadas em bases de dados relacionais  </p>
-<p><b>C</b>reate = (Criar)</p>
-<p><b>R</b>ead = (Ler)</p>
-<p><b>U</b>pdate = (Atualizar)</p>
-<p><b>D</b>elete = (Deletar)</p>
+<p><b>C</b>reate = (Criar algo no banco de dados)</p>
+<p><b>R</b>ead = (Ler algo no banco de dados)</p>
+<p><b>U</b>pdate = (Atualizar algo no banco de dados)</p>
+<p><b>D</b>elete = (Deletar algo no banco de dados)</p>
 
 <br><br>
 
